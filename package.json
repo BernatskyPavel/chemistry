@@ -6,5 +6,6 @@
   "repository": "https://github.com/BernatskyPavel/chemistry.git",
   "author": "PavelBernatsky <pasha.desh@yandex.by>",
   "license": "MIT",
-  "private": true
+  "private": false
 }
+
