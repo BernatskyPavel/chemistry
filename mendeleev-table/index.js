@@ -49,5 +49,12 @@ module.exports = {
     },
     stringify:(symbol)=>{
         return `${elements[symbol].number.toString()}:${elements[symbol].name}/${elements[symbol].weight.toString()}`;
+    },
+    printTable : ()=>{
+        for (const key in elements) {
+            if (elements.hasOwnProperty(key)) {
+                console.log(`${elements[key].number}.${key}:${elements[key].name}, weight = ${elements[key].weight} moles.`);
+            }
+        }
     }
 }

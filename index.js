@@ -1,3 +1,3 @@
 module.exports = {
-    mandeleevtTable : require('./mendeleev-table')    
+    periodic_table : require('./mendeleev-table')    
 }
