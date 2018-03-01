@@ -1,0 +1,10 @@
+{
+  "name": "my-chemistry-pack",
+  "version": "0.0.1",
+  "description": "Chemistry Pack",
+  "main": "index.js",
+  "repository": "https://github.com/BernatskyPavel/chemistry.git",
+  "author": "PavelBernatsky <pasha.desh@yandex.by>",
+  "license": "MIT",
+  "private": true
+}
