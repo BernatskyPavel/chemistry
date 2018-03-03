@@ -1,6 +1,6 @@
 {
   "name": "bpv-chemistry-pack",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Chemistry Pack",
   "main": "index.js",
   "repository": "https://github.com/BernatskyPavel/chemistry.git",
