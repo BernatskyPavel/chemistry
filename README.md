@@ -6,7 +6,7 @@
 > But it will expand.
 
 > List of supported languages:
->* Russiuan
+>* Russian
 >* English
 
 > Functions:
